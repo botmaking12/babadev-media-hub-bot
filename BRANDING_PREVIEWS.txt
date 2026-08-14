@@ -1,0 +1,18 @@
+🔱 BABADEV MEDIA HUB — 5 BRAND STYLES
+
+GOLD
+𓆩🔱 𝐁𝐀𝐁𝐀𝐃𝐄𝐕 𝐌𝐄𝐃𝐈𝐀 𝐇𝐔𝐁 🔱𓆪
+
+ROYAL
+♛ 𝕭𝕬𝕭𝕬𝕯𝕰𝖁 𝕸𝕰𝕯𝕴𝕬 𝕳𝖀𝕭 ♛
+
+NEON
+⚡ 𝘽𝘼𝘽𝘼𝘿𝙀𝙑 𝙈𝙀𝘿𝙄𝘼 𝙃𝙐𝘽 ⚡
+
+MINIMAL
+🔱 𝗕𝗔𝗕𝗔𝗗𝗘𝗩 𝗠𝗘𝗗𝗜𝗔 𝗛𝗨𝗕
+
+DEVOTIONAL
+🛕 𝑩𝑨𝑩𝑨𝑫𝑬𝑽 𝑴𝑬𝑫𝑰𝑨 𝑯𝑼𝑩 🛕
+
+Set BRAND_STYLE=gold / royal / neon / minimal / devotional in .env
